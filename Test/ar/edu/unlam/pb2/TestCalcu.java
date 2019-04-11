@@ -7,7 +7,8 @@ import org.junit.Test;
 public class TestCalcu {
 
 	@Test
-	public void test() {
+	public void test() {lnrñklren
+		kmlkfwen
 		fail("Not yet implemented");
 	}
 
