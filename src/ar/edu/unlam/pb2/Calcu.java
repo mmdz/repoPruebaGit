@@ -1,6 +1,6 @@
 package ar.edu.unlam.pb2;
 
-public class Calcu {
+public class Calcu {	//primero se pushea el codigo original
 
 	public static void main(String[] args) {
 		Integer a;
@@ -16,6 +16,7 @@ public class Calcu {
 			a = teclado.next();
 		System.out.println("Ingrese el segundo numero");
 			a = teclado.next();
+								
 		if(opcion.equals(1)){
 			resultado = a + b;
 		}else if(opcion.equals(2)){
