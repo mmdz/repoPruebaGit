@@ -27,3 +27,4 @@ métodos y líneas. Ejemplo: separar cada acción (sumar, restar, multiplicar y div
 ¿Qué estrategia utilizarían para evitar conflictos?
 
 ----
+----
